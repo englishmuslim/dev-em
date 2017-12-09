@@ -1,0 +1,129 @@
+/* Reset */
+
+.back-header {
+    font-family: 'Montserrat-bold', Verdana !important;
+    color: #fff;
+}
+
+.back-caption {
+    font-family: 'Montserrat-Regular', Verdana !important;
+    color: #fff;
+}
+
+.mr20{
+margin-right: 20px;
+}
+
+#content{
+background: #1976d3;
+padding-top: 125px;
+text-align: center;
+}
+
+.mr20 p{
+font-size: 13px;
+color: #000;
+line-height: 22px;
+margin-bottom: 10px;
+font-family: 'Montserrat-Regular', Verdana;
+}
+
+.mr20 a{
+color: #fff;
+text-decoration: none;
+font-family: 'Montserrat-Regular', Verdana;
+background-color: #1976d3;
+padding: 0.5em;
+position: relative;
+top: 0.5em;
+}
+
+.mr20 a:hover{
+text-decoration: underline;
+font-family: 'Montserrat-Regular', Verdana;
+}
+
+.mr20 h1{
+color: #fff;
+font-size: 36px;
+margin-bottom: 15px;
+font-family: 'Montserrat-bold', Verdana;
+}
+
+.mr20 h3{
+font-family: 'Montserrat-Regular', Verdana;
+font-size: 16px;
+color: #fff;
+font-style: italic;
+margin-bottom: 35px;
+}
+
+.mr20 h2{
+font-size: 22px;
+color: #000;
+margin-bottom: 8px;
+font-family: 'Montserrat-Regular', Verdana;
+}
+
+.main{
+width: 884px;
+padding-bottom: 30px;
+margin: 0 auto;
+background: url(../images/shadow.png) left bottom no-repeat;
+}
+
+.mcontent{
+min-height: 153px;
+background:#ebebeb url(../images/main.gif) left top repeat-x;
+width: 698px;
+border-left: 1px solid #f7f7f7;
+margin: 0 auto;
+border-right: 1px solid #f7f7f7;
+padding: 20px;
+}
+
+.box{
+border: 1px solid #fff;
+background: #ededed;
+-moz-box-shadow: 1px 2px 3px #C6C5C5;
+-webkit-box-shadow: 1px 2px 3px #C6C5C5;
+float: left;
+text-align: left;
+min-height: 110px;
+padding: 20px;
+width: 180px;
+}
+
+.box2{
+border: 1px solid #fff;
+background: #ededed;
+-moz-box-shadow: 1px 2px 3px #C6C5C5;
+-webkit-box-shadow: 1px 2px 3px #C6C5C5;
+float: left;
+text-align: left;
+min-height:110px;
+padding: 20px;
+width: 172px;
+}
+
+.box2 a{
+float: left;
+margin-right: 10px;
+font-family: 'Montserrat-Regular', Verdana;
+}
+
+a.get{
+background: #3e7a9a;
+color: #fff;
+border: 1px solid #41728c;
+padding: 3px 7px;
+font-size: 16px;
+font-family: 'Montserrat-Regular', Verdana;
+}
+
+a:hover.get{
+background: #41728c;
+border: 1px solid #3e7a9a;
+text-decoration: none;
+font-family: 'Montserrat-Regular', Verdana;
+}
